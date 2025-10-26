@@ -10,7 +10,7 @@ Heapsort is an unstable (like my brain) sorting algorithm usually used as a cons
 - int swap(double arr[], size_t i1, size_t i2);
 - I imagine this'll be useful for other sorts! Definitely not forshadowing. btw i1 and i2 are 0-based so to swap elements 0 and 1 i1=0 and i2=1.
 ## LICENSE
-- does this even matter? (or GPL3 to troll)
+- LGPL v2.1 (I rolled some dice, alright?)
 ## CONTRIBUTING
 - if you want to add sorting algorithms, go for it. We stop when we reach a fully optimal blocksort and have defeated all other sorting algorithms with it.
 ## COMPILING
