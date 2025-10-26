@@ -27,4 +27,5 @@ Heapsort is an unstable (like my brain) sorting algorithm usually used as a cons
 - Can I use this in prod?
 	- if you want to watch bars go brrr, then yes.
 - Can I contribute?
-	- sure, why not. Our eventual goal is blocksort.
+	- sure, why not. Our eventual goal is blocksort
+ 
